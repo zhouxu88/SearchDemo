@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="kobe">
+        <item>科比球衣</item>
+        <item>科比篮球鞋</item>
+        <item>科比12</item>
+        <item>科比短袖</item>
+        <item>科比毒液</item>
+        <item>科比8</item>
+        <item>科比9</item>
+        <item>科比11</item>
+    </string-array>
+
+    <string-array name="nike">
+        <item>耐克乔丹鞋男</item>
+        <item>耐克男鞋</item>
+        <item>耐克官方旗舰店 正品</item>
+        <item>耐克女鞋</item>
+        <item>耐克体恤男</item>
+        <item>耐克童鞋</item>
+    </string-array>
+
+
+    <string-array name="qixi">
+        <item>七夕情人节礼物 女友 浪漫</item>
+        <item>七夕情人节礼物送男</item>
+        <item>七夕饰品</item>
+        <item>七夕情侣礼物</item>
+    </string-array>
+</resources>
